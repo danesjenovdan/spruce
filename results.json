@@ -1,0 +1,1416 @@
+[
+  {
+    "repo": "danesjenovdan/danesjenovdan.si",
+    "created_at": "2014-08-31T19:04:48Z",
+    "last_push": "2024-02-19T11:08:57Z",
+    "ref": "v2-develop",
+    "versions": {
+      "npm": [
+        "lodash@^4.17.20",
+        "nuxt@^2.14.12"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/cefizelj",
+    "created_at": "2014-08-31T19:18:48Z",
+    "last_push": "2023-10-02T07:47:51Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/danesjenovdan.si-en",
+    "created_at": "2015-08-22T20:04:33Z",
+    "last_push": "2020-05-06T22:45:42Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/omnia",
+    "created_at": "2015-12-16T10:48:43Z",
+    "last_push": "2022-11-28T15:35:55Z",
+    "ref": "master",
+    "versions": {
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/breakfree",
+    "created_at": "2017-03-06T22:49:01Z",
+    "last_push": "2023-01-03T16:57:43Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/parlaparser",
+    "created_at": "2017-06-14T18:57:21Z",
+    "last_push": "2021-01-22T17:38:14Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/djapi",
+    "created_at": "2017-07-26T13:37:50Z",
+    "last_push": "2022-11-22T01:52:49Z",
+    "ref": "master",
+    "versions": {
+      "pip": [
+        "Django==1.11.3"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/parlaspeeches",
+    "created_at": "2017-08-26T11:23:48Z",
+    "last_push": "2022-12-08T00:43:41Z",
+    "ref": "master",
+    "versions": {
+      "pip": [
+        "Django==1.11.4"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/parlacontrol",
+    "created_at": "2017-08-30T09:32:01Z",
+    "last_push": "2022-12-08T00:36:31Z",
+    "ref": "master",
+    "versions": {
+      "pip": [
+        "Django==1.11.16"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/parlanode",
+    "created_at": "2017-08-31T09:15:21Z",
+    "last_push": "2024-02-21T20:52:42Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "nginx:alpine",
+        "node:20-alpine"
+      ],
+      "npm": [
+        "vite@^5.0.12",
+        "fastify@^4.25.2",
+        "sass@^1.70.0",
+        "lodash@^4.17.21",
+        "vue@3.4.15",
+        "express@^4.18.2",
+        "lodash-es@^4.17.21",
+        "sass@^1.69.7"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/parladata",
+    "created_at": "2017-12-06T15:24:26Z",
+    "last_push": "2024-02-05T13:39:34Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "python:3.8",
+        "solr:8.11.0"
+      ],
+      "pip": [
+        "Django==3.2.12"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/parlalize",
+    "created_at": "2017-12-06T16:35:30Z",
+    "last_push": "2022-06-21T21:10:03Z",
+    "ref": "master",
+    "versions": {
+      "pip": [
+        "Django==1.11"
+      ],
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/kura",
+    "created_at": "2017-12-20T17:40:28Z",
+    "last_push": "2021-02-28T18:46:38Z",
+    "ref": "master",
+    "versions": {
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/agrument",
+    "created_at": "2018-02-18T11:48:21Z",
+    "last_push": "2023-12-13T11:11:34Z",
+    "ref": "dev",
+    "versions": {
+      "npm": [
+        "vite@^2.8.0",
+        "sass@^1.49.9",
+        "fastify@^3.27.4",
+        "lodash@^4.17.21"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/hr-parser",
+    "created_at": "2018-05-29T14:51:04Z",
+    "last_push": "2022-12-08T02:07:53Z",
+    "ref": "master",
+    "versions": {
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/consul",
+    "created_at": "2018-06-08T11:31:06Z",
+    "last_push": "2024-02-22T10:07:24Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "ruby:2.7.4-buster"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/turf",
+    "created_at": "2018-07-14T14:32:54Z",
+    "last_push": "2022-12-08T02:16:32Z",
+    "ref": "master",
+    "versions": {
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/sdk",
+    "created_at": "2018-07-30T03:53:19Z",
+    "last_push": "2020-01-27T12:54:46Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "vue@^2.5.2",
+        "express@^4.16.1"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/commentality-server",
+    "created_at": "2018-09-10T22:34:45Z",
+    "last_push": "2022-05-25T00:33:19Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "python:3.7"
+      ],
+      "pip": [],
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/participatorni-proracun",
+    "created_at": "2018-10-24T14:44:34Z",
+    "last_push": "2023-03-02T11:16:31Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "vue@^2.5.17"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/sponzorji-sovrastva",
+    "created_at": "2018-10-28T21:39:49Z",
+    "last_push": "2022-11-28T16:00:50Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "express@^4.16.1",
+        "vue@^2.5.17"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/stanovanja",
+    "created_at": "2018-11-01T12:14:12Z",
+    "last_push": "2021-04-01T08:29:47Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "vue@^2.5.17"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/commentality-client",
+    "created_at": "2018-11-26T22:43:36Z",
+    "last_push": "2022-12-09T17:31:45Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "vue@^2.6.10",
+        "lodash@^4.17.11"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/shortener",
+    "created_at": "2018-12-04T12:32:18Z",
+    "last_push": "2023-12-21T18:41:43Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/other",
+    "created_at": "2018-12-04T13:21:08Z",
+    "last_push": "2020-09-08T09:43:21Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/parlameter.org",
+    "created_at": "2019-02-21T17:34:46Z",
+    "last_push": "2023-01-08T14:38:10Z",
+    "ref": "parlameter.org",
+    "versions": {
+      "docker": [
+        "node:14-alpine",
+        "nginx:alpine"
+      ],
+      "npm": [
+        "sass@^1.17.1"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/djnapi",
+    "created_at": "2019-05-20T13:52:41Z",
+    "last_push": "2022-04-22T21:17:37Z",
+    "ref": "master",
+    "versions": {
+      "pip": [
+        "Django==2.2.14"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/djndonacije",
+    "created_at": "2019-05-28T16:55:43Z",
+    "last_push": "2024-02-19T14:06:52Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "python:3.8",
+        "node:18-alpine",
+        "nginx:alpine"
+      ],
+      "pip": [
+        "Django==3.2.8"
+      ],
+      "npm": [
+        "vue@^3.2.45",
+        "vite@^4.0.4",
+        "sass@^1.57.1"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/gp-lottery",
+    "created_at": "2019-07-03T14:55:35Z",
+    "last_push": "2023-01-04T21:54:45Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "sass@^1.25.0",
+        "lodash-es@^4.17.15",
+        "vue@^2.6.11"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/dobrodelen",
+    "created_at": "2019-07-04T12:16:53Z",
+    "last_push": "2023-10-18T14:50:36Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "node:18-alpine",
+        "python:3.11.5-slim-bookworm"
+      ],
+      "pip": [
+        "Django==4.1.5",
+        "wagtail==4.1.1"
+      ],
+      "npm": [
+        "sass@^1.62.1",
+        "nuxt@^3.4.3",
+        "lodash@^4.17.21"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/newsgradient-api",
+    "created_at": "2019-08-14T12:37:11Z",
+    "last_push": "2020-07-29T14:55:36Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/newsgradient-pwa",
+    "created_at": "2019-08-14T15:57:15Z",
+    "last_push": "2023-01-04T07:16:07Z",
+    "ref": "v3",
+    "versions": {
+      "npm": [
+        "vue@^2.6.11"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/sms-sender",
+    "created_at": "2019-10-22T12:43:29Z",
+    "last_push": "2022-04-11T18:29:12Z",
+    "ref": "master",
+    "versions": {
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/kjer.si",
+    "created_at": "2019-11-01T10:27:21Z",
+    "last_push": "2023-01-08T00:06:33Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "elixir:latest",
+        "androidsdk/android-30:latest"
+      ],
+      "npm": [
+        "vite@^2.1.5",
+        "sass@^1.32.11",
+        "vue@^3.0.5"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/stanovanjska-kriza",
+    "created_at": "2019-11-11T19:26:39Z",
+    "last_push": "2023-01-05T00:50:30Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "vue@^2.6.10"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/neo4j-browser",
+    "created_at": "2020-01-28T10:03:14Z",
+    "last_push": "2020-01-28T14:09:00Z",
+    "ref": "editor",
+    "versions": {
+      "docker": [
+        "node:10-jessie",
+        "nginx:1.15-alpine"
+      ],
+      "npm": [
+        "lodash-es@^4.17.15",
+        "express@^4.15.4"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/twint-docker",
+    "created_at": "2020-04-11T11:07:46Z",
+    "last_push": "2020-04-11T11:27:28Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "ubuntu:19.10",
+        "alpine:3.11",
+        "alpine:3.10",
+        "golang:1.13-alpine",
+        "python:3.7-slim-stretch"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/twitterati",
+    "created_at": "2020-04-25T15:40:20Z",
+    "last_push": "2020-05-03T16:28:57Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "ubuntu:19.10",
+        "graphfoundation/ongdb:3.5.5"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/reference_implementation",
+    "created_at": "2020-04-28T07:36:10Z",
+    "last_push": "2020-04-28T07:46:56Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/amzs-prijavnice",
+    "created_at": "2020-05-10T22:12:32Z",
+    "last_push": "2020-05-20T14:48:49Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "lodash-es@^4.17.15",
+        "vue@^2.6.11"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/eposvetovanja-parser",
+    "created_at": "2020-06-02T15:47:28Z",
+    "last_push": "2022-11-04T19:41:34Z",
+    "ref": "master",
+    "versions": {
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/parlameter-bih-empty-states-campaign",
+    "created_at": "2020-06-08T10:16:57Z",
+    "last_push": "2023-01-07T18:57:36Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "nuxt@^2.0.0",
+        "vue@^2.6.11"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/eposvetovanja-campaign",
+    "created_at": "2020-06-09T21:31:22Z",
+    "last_push": "2023-01-07T18:59:02Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "lodash-es@^4.17.15",
+        "express@^4.17.1"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/boter",
+    "created_at": "2020-07-11T14:03:12Z",
+    "last_push": "2020-08-28T15:30:48Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "ubuntu:19.10",
+        "graphfoundation/ongdb:3.5.5"
+      ],
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/kbpjs",
+    "created_at": "2020-09-23T11:32:14Z",
+    "last_push": "2020-10-23T11:41:07Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "sass@^1.19.0",
+        "vue@^2.6.11"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/sideflip",
+    "created_at": "2020-10-07T20:00:52Z",
+    "last_push": "2020-10-15T10:59:20Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "sass@^1.26.5",
+        "vue@^2.6.11"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/katalizatorji",
+    "created_at": "2020-10-09T07:52:59Z",
+    "last_push": "2020-11-24T16:10:32Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "vue@^2.6.11"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/parlamint-parser",
+    "created_at": "2020-10-26T15:59:45Z",
+    "last_push": "2021-06-27T18:04:57Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:3.8"
+      ],
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/twito",
+    "created_at": "2020-10-31T16:27:39Z",
+    "last_push": "2023-11-06T15:17:47Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "node:alpine",
+        "python:3.9",
+        "nginx:alpine"
+      ],
+      "pip": [],
+      "npm": [
+        "vue@^3.0.4",
+        "lodash-es@^4.17.20",
+        "vite@^2.3.3"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/brigade",
+    "created_at": "2020-12-07T08:12:09Z",
+    "last_push": "2021-03-08T18:04:57Z",
+    "ref": "main",
+    "versions": {
+      "npm": [
+        "vite@^1.0.0-rc.13",
+        "vue@^3.0.4"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/abakus",
+    "created_at": "2020-12-18T14:43:34Z",
+    "last_push": "2021-02-11T08:52:56Z",
+    "ref": "master",
+    "versions": {
+      "npm": [
+        "sass@^1.26.5",
+        "vue@^2.6.11"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/creativecommons.si",
+    "created_at": "2020-12-22T10:29:41Z",
+    "last_push": "2021-06-24T11:39:30Z",
+    "ref": "main",
+    "versions": {
+      "npm": [
+        "vue@^2.6.12",
+        "sass@^1.26.5"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/pravnamreza",
+    "created_at": "2020-12-27T23:15:20Z",
+    "last_push": "2024-01-26T12:23:29Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "python:3.8.1-slim-buster"
+      ],
+      "pip": [
+        "wagtail>=2.12,<2.13",
+        "Django>=3.1,<3.2"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/debateland",
+    "created_at": "2021-01-20T09:36:38Z",
+    "last_push": "2024-01-22T10:44:30Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:3.11.2-slim-bullseye"
+      ],
+      "pip": [
+        "wagtail>=4.1,<4.2",
+        "Django>=3.2,<4.0"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/izboljsajmo-maribor",
+    "created_at": "2021-02-02T10:25:55Z",
+    "last_push": "2023-11-23T11:37:56Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "osgeo/gdal:ubuntu-small-3.3.2",
+        "node:14-alpine"
+      ],
+      "pip": [
+        "Django==3.1.5"
+      ],
+      "npm": [
+        "sass@^1.32.6",
+        "nuxt@^2.14.12"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/outline",
+    "created_at": "2021-02-10T12:09:55Z",
+    "last_push": "2022-05-04T10:01:12Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "node:16.14.2-alpine3.15",
+        "outlinewiki/outline-base"
+      ],
+      "npm": [
+        "lodash@^4.17.21"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/motionsearch",
+    "created_at": "2021-02-17T20:48:44Z",
+    "last_push": "2023-03-16T08:50:33Z",
+    "ref": "develop",
+    "versions": {
+      "docker": [
+        "node:alpine",
+        "python:3.9",
+        "nginx:alpine"
+      ],
+      "pip": [
+        "Django==3.2.9"
+      ],
+      "npm": [
+        "vite@^1.0.0-rc.13",
+        "vue@^3.0.4",
+        "sass@^1.26.5"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/installer",
+    "created_at": "2021-03-10T08:58:45Z",
+    "last_push": "2021-03-10T11:18:39Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "debian:8",
+        "ubuntu:14.04",
+        "ubuntu:16.04",
+        "debian:9",
+        "centos:6",
+        "centos:7"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/djnd-infra",
+    "created_at": "2021-03-15T11:40:34Z",
+    "last_push": "2024-01-29T08:26:15Z",
+    "ref": "main",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/meta-image-generator",
+    "created_at": "2021-04-23T18:56:05Z",
+    "last_push": "2022-11-28T16:08:54Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "node:16-alpine"
+      ],
+      "npm": [
+        "fastify@^3.27.1",
+        "vite@^2.2.3",
+        "sass@^1.32.11",
+        "vue@^3.0.5"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/ops",
+    "created_at": "2021-04-29T14:41:59Z",
+    "last_push": "2023-12-18T15:59:58Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "bitnami/mariadb:10.6-debian-10",
+        "postgis/postgis:13-master",
+        "yandex/clickhouse-client:latest",
+        "mdillon/postgis"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/hudapobuda",
+    "created_at": "2021-05-07T08:36:06Z",
+    "last_push": "2024-02-13T10:28:24Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "python:3.8.1-slim-buster",
+        "node:14-alpine"
+      ],
+      "pip": [
+        "wagtail>=2.13,<2.14",
+        "Django>=3.2,<3.3"
+      ],
+      "npm": [
+        "sass@^1.32.12"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/stop-your-government",
+    "created_at": "2021-05-11T10:57:54Z",
+    "last_push": "2023-11-21T14:46:52Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "node:14-alpine",
+        "nginx:alpine"
+      ],
+      "npm": [
+        "vite@^2.2.3",
+        "sass@^1.32.12"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/mol-parser",
+    "created_at": "2021-05-19T15:15:25Z",
+    "last_push": "2023-07-20T07:51:07Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "rg.fr-par.scw.cloud/djnd/parladata-ljubljana:latest"
+      ],
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/obljuba-dela-dolg",
+    "created_at": "2021-06-03T15:25:29Z",
+    "last_push": "2024-01-19T13:24:12Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "python:3.8.1-slim-buster",
+        "node:14-alpine",
+        "node:16-alpine"
+      ],
+      "pip": [
+        "wagtail>=2.13,<2.14",
+        "Django>=3.2,<3.3"
+      ],
+      "npm": [
+        "sass@^1.34.1"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/plausible",
+    "created_at": "2021-06-16T09:16:09Z",
+    "last_push": "2021-05-15T08:22:20Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/newsgradient",
+    "created_at": "2021-06-22T16:13:34Z",
+    "last_push": "2024-02-21T08:05:56Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "rg.fr-par.scw.cloud/djnd/newsgradient-api:latest",
+        "python:3.8",
+        "node:16-alpine",
+        "androidsdk/android-30:latest"
+      ],
+      "pip": [
+        "Django==3.2.4"
+      ],
+      "npm": [
+        "nuxt@^2.0.0",
+        "sass@^1.32.8",
+        "lodash-es@^4.17.21",
+        "sass@^1.0.0"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/parlamint",
+    "created_at": "2021-06-27T11:46:00Z",
+    "last_push": "2021-06-28T11:42:45Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/ua-parser",
+    "created_at": "2021-07-20T13:42:51Z",
+    "last_push": "2022-04-20T13:04:27Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "rg.fr-par.scw.cloud/djnd/parladata-ua:latest"
+      ],
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/najemniski-sos",
+    "created_at": "2021-08-03T08:13:36Z",
+    "last_push": "2024-02-20T21:46:08Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "python:3.8.1-slim-buster",
+        "node:14-alpine",
+        "node:16-alpine"
+      ],
+      "pip": [
+        "wagtail>=2.14,<2.15",
+        "Django>=3.2,<3.3"
+      ],
+      "npm": [
+        "sass@^1.34.1"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/lestvica-transparentnosti",
+    "created_at": "2021-08-18T09:12:41Z",
+    "last_push": "2022-11-26T17:42:47Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:3.9"
+      ],
+      "pip": [
+        "Django"
+      ],
+      "npm": [
+        "sass@^1.38.0",
+        "nuxt@^2.15.7"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/settlement-newday",
+    "created_at": "2021-09-14T16:34:15Z",
+    "last_push": "2021-10-09T09:39:40Z",
+    "ref": "newday",
+    "versions": {
+      "docker": [
+        "node:alpine"
+      ],
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/stanovanjske-zadruge-zemljevid",
+    "created_at": "2021-09-16T14:55:51Z",
+    "last_push": "2022-05-05T08:34:20Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "python:3.8",
+        "node:14-alpine",
+        "nginx:alpine"
+      ],
+      "pip": [
+        "Django==3.2.7"
+      ],
+      "npm": [
+        "vue@^3.0.0"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/sl-parser",
+    "created_at": "2021-09-24T10:49:55Z",
+    "last_push": "2024-02-05T18:30:21Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "rg.fr-par.scw.cloud/djnd/parladata:latest"
+      ],
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/odmevi-prve-epidemije",
+    "created_at": "2021-10-09T09:28:05Z",
+    "last_push": "2021-10-09T09:28:45Z",
+    "ref": "main",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/sramota",
+    "created_at": "2021-10-09T09:35:43Z",
+    "last_push": "2021-10-09T09:37:46Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "nginx:alpine"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/novdan",
+    "created_at": "2021-10-19T09:45:09Z",
+    "last_push": "2024-02-21T16:48:21Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "node:14-alpine",
+        "python:3.10"
+      ],
+      "pip": [
+        "Django==3.2.8"
+      ],
+      "npm": [
+        "sass@^1.43.2",
+        "nuxt@^2.15.7"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/glas-ljudstva.si",
+    "created_at": "2021-11-11T16:14:42Z",
+    "last_push": "2024-02-15T19:48:31Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:3.9"
+      ],
+      "pip": [
+        "Django==4.1.3"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/ajdovscina-parser",
+    "created_at": "2022-01-13T10:16:47Z",
+    "last_push": "2023-03-29T09:53:09Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "rg.fr-par.scw.cloud/djnd/parladata-ajdovscina:latest"
+      ],
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/vejice",
+    "created_at": "2022-02-20T19:27:45Z",
+    "last_push": "2022-07-07T11:01:32Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "huggingface/transformers-pytorch-gpu:latest"
+      ],
+      "pip": [],
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/zamerim",
+    "created_at": "2022-02-22T22:37:17Z",
+    "last_push": "2022-11-26T08:19:39Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "node:16-alpine",
+        "nginx:alpine"
+      ],
+      "npm": [
+        "vue@^3.2.31",
+        "vite@^2.8.6",
+        "sass@^1.49.9"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/volitvomat",
+    "created_at": "2022-02-24T11:28:21Z",
+    "last_push": "2022-11-16T12:28:18Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "node:16-alpine",
+        "nginx:alpine"
+      ],
+      "npm": [
+        "vue@^3.2.31",
+        "sass@^1.49.9",
+        "vite@^2.8.4"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/pictshare",
+    "created_at": "2022-03-23T13:05:05Z",
+    "last_push": "2022-03-08T21:24:03Z",
+    "ref": "master",
+    "versions": {
+      "docker": [
+        "alpine:3.14.2"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/parla-parser",
+    "created_at": "2022-04-05T10:05:04Z",
+    "last_push": "2024-01-24T20:54:37Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "rg.fr-par.scw.cloud/djnd/parladata-bosna:latest"
+      ],
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/rule-of-law-reporting",
+    "created_at": "2022-04-14T14:47:52Z",
+    "last_push": "2022-11-26T16:16:27Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "node:16-alpine",
+        "nginx:alpine"
+      ],
+      "npm": [
+        "sass@^1.50.0",
+        "lodash-es@^4.17.21",
+        "vue@^3.2.25",
+        "vite@^2.9.2"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/otvaraj",
+    "created_at": "2022-06-23T09:25:35Z",
+    "last_push": "2022-12-02T17:32:23Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "node:16-alpine",
+        "nginx:alpine"
+      ],
+      "npm": [
+        "vue@^3.2.25",
+        "vite@^2.9.9"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/futr-za-jutr",
+    "created_at": "2022-06-30T09:23:53Z",
+    "last_push": "2023-04-28T09:44:39Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "node:16-alpine",
+        "nginx:alpine"
+      ],
+      "npm": [
+        "lodash-es@^4.17.21",
+        "sass@^1.53.0",
+        "vue@^3.2.25",
+        "vite@^2.9.9"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/odprti-racuni",
+    "created_at": "2022-07-01T09:26:08Z",
+    "last_push": "2023-07-27T10:34:53Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:3.9"
+      ],
+      "pip": [
+        "Django==4.0.5"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/brezgreha.si",
+    "created_at": "2022-07-07T10:41:00Z",
+    "last_push": "2022-07-07T10:41:32Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "nginx:alpine",
+        "python:3.9"
+      ],
+      "pip": [],
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/newsgradient-analize",
+    "created_at": "2022-07-11T13:45:55Z",
+    "last_push": "2022-07-29T12:55:47Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:3.9"
+      ],
+      "pip": [],
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/alaveteli",
+    "created_at": "2022-08-08T12:25:33Z",
+    "last_push": "2023-09-27T08:45:44Z",
+    "ref": "develop",
+    "versions": {
+      "docker": [
+        "postgres:13.5",
+        "ruby:2.7-bullseye"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/djnd-alavetelitheme",
+    "created_at": "2022-08-10T15:57:00Z",
+    "last_push": "2023-09-27T08:33:55Z",
+    "ref": "master",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/lesson-plans",
+    "created_at": "2022-08-29T09:03:20Z",
+    "last_push": "2022-12-23T12:05:40Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:latest",
+        "node:16-alpine",
+        "nginx:alpine"
+      ],
+      "pip": [
+        "Django==3.2.9"
+      ],
+      "npm": [
+        "vite@^3.0.9",
+        "sass@^1.26.5",
+        "vue@^3.2.37"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/presupuesto",
+    "created_at": "2022-11-09T16:03:30Z",
+    "last_push": "2022-10-09T22:21:27Z",
+    "ref": "master",
+    "versions": {
+      "pip": [],
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/podpri-novicnik",
+    "created_at": "2022-12-02T07:07:21Z",
+    "last_push": "2022-12-02T13:38:29Z",
+    "ref": "main",
+    "versions": {
+      "npm": [
+        "vite@^3.2.4",
+        "vue@^3.2.45",
+        "sass@^1.56.1"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/advent",
+    "created_at": "2022-12-04T11:22:20Z",
+    "last_push": "2022-12-17T22:12:44Z",
+    "ref": "2022",
+    "versions": {
+      "npm": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/melita",
+    "created_at": "2023-01-03T11:16:06Z",
+    "last_push": "2023-10-03T12:48:59Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "python:3.11.2-slim-bullseye",
+        "node:18-alpine"
+      ],
+      "pip": [
+        "wagtail==4.2",
+        "Django==4.1.7"
+      ],
+      "npm": [
+        "sass@^1.58.3"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/odprti-racuni-obcine",
+    "created_at": "2023-01-13T13:26:30Z",
+    "last_push": "2024-01-29T10:47:34Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:3.9"
+      ],
+      "pip": [
+        "Django==4.0.5"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/center-rog",
+    "created_at": "2023-02-08T21:08:23Z",
+    "last_push": "2024-02-22T11:27:52Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "node:18-alpine",
+        "python:3.11.5-slim-bookworm"
+      ],
+      "pip": [
+        "wagtail==4.2.4",
+        "Django==4.1.11"
+      ],
+      "npm": [
+        "sass@^1.32.12"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/media-literacy",
+    "created_at": "2023-04-06T15:11:58Z",
+    "last_push": "2023-11-27T14:07:03Z",
+    "ref": "dev",
+    "versions": {}
+  },
+  {
+    "repo": "danesjenovdan/ppp",
+    "created_at": "2023-04-12T10:55:30Z",
+    "last_push": "2024-01-22T12:52:28Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:3.9"
+      ],
+      "pip": [
+        "Django==4.1.8"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/disco",
+    "created_at": "2023-06-09T09:17:37Z",
+    "last_push": "2024-01-19T13:13:59Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:3.11.2-slim-bullseye",
+        "node:18-alpine"
+      ],
+      "pip": [
+        "Django==4.1.9",
+        "wagtail==5.0.1"
+      ],
+      "npm": [
+        "sass@^1.58.3"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/klub-ada",
+    "created_at": "2023-09-25T16:32:50Z",
+    "last_push": "2023-12-08T11:45:46Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "nginx:alpine"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/calcom-docker",
+    "created_at": "2023-10-11T17:20:27Z",
+    "last_push": "2023-10-11T04:04:25Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "node:18",
+        "calcom.docker.scarf.sh/calcom/cal.com"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/djnCAPTCHA",
+    "created_at": "2023-10-25T14:04:29Z",
+    "last_push": "2023-11-24T22:15:12Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "tomcat:9-jdk8",
+        "nginx:alpine"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/snakes-and-ladders",
+    "created_at": "2023-11-24T09:12:51Z",
+    "last_push": "2023-12-12T09:36:30Z",
+    "ref": "dev",
+    "versions": {
+      "docker": [
+        "nginx:alpine",
+        "node:20-alpine"
+      ],
+      "npm": [
+        "sass@^1.69.5",
+        "vite@^5.0.0"
+      ]
+    }
+  },
+  {
+    "repo": "danesjenovdan/krtk",
+    "created_at": "2023-12-26T21:03:41Z",
+    "last_push": "2024-01-19T19:57:38Z",
+    "ref": "main",
+    "versions": {
+      "pip": []
+    }
+  },
+  {
+    "repo": "danesjenovdan/odprti-racuni-obcine-lite",
+    "created_at": "2024-01-25T09:52:34Z",
+    "last_push": "2024-01-25T12:17:19Z",
+    "ref": "main",
+    "versions": {
+      "docker": [
+        "python:3.9"
+      ],
+      "pip": [
+        "Django==4.0.5"
+      ]
+    }
+  }
+]
