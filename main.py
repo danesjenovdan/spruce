@@ -2,8 +2,8 @@ from os.path import dirname, join
 
 from dotenv import load_dotenv
 
-from evergreen.github_auth import github_login
-from evergreen.repositories import check_repositories
+from spruce.github_auth import github_login
+from spruce.repositories import check_repositories
 
 dotenv_path = join(dirname(__file__), ".env")
 load_dotenv(dotenv_path)
