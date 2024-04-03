@@ -2,6 +2,7 @@ import json
 
 from .dependency_checkers.docker import is_outdated as is_outdated_docker
 from .dependency_checkers.pip import is_outdated as is_outdated_pip
+from .dependency_checkers.npm import is_outdated as is_outdated_npm
 
 
 def check_outdated(repo_name):
@@ -22,9 +23,9 @@ def check_outdated(repo_name):
     if "pip" in versions:
         for package in versions["pip"]:
             print(f"{package} = {is_outdated_pip(package)}")
-
-    # if "npm" in versions:
-    #     print(f"NPM: {versions['npm']}")
+    if "npm" in versions:
+        for package in versions["npm"]:
+            print(f"{package} = {is_outdated_npm(package)}")
 
 
 def main(args):
