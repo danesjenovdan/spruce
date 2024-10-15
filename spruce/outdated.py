@@ -1,8 +1,8 @@
 import json
 
 from .dependency_checkers.docker import is_outdated as is_outdated_docker
-from .dependency_checkers.pip import is_outdated as is_outdated_pip
 from .dependency_checkers.npm import is_outdated as is_outdated_npm
+from .dependency_checkers.pip import is_outdated as is_outdated_pip
 
 
 def check_outdated(repo_name):

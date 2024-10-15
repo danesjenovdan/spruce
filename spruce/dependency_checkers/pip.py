@@ -94,7 +94,9 @@ def is_outdated(package_name: str) -> Outdated:
     keys = data["releases"].keys()
     versions = sorted(set([parse_version(key) for key in keys]), reverse=True)
     versions = [v for v in versions if not v.is_prerelease]
-    newer_versions = [v for v in versions if compare_versions(v.release, version.release)]
+    newer_versions = [
+        v for v in versions if compare_versions(v.release, version.release)
+    ]
 
     if not newer_versions:
         return Outdated.NO

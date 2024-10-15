@@ -1,11 +1,17 @@
+black==24.10.0
 certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
+click==8.1.7
 cryptography==42.0.3
 github3.py==4.0.1
 idna==3.6
+isort==5.13.2
+mypy-extensions==1.0.0
 node-semver==0.9.0
 packaging==24.0
+pathspec==0.12.1
+platformdirs==4.3.6
 pycparser==2.21
 PyJWT==2.8.0
 python-dateutil==2.8.2
