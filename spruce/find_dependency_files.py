@@ -18,6 +18,10 @@ def is_pip(entry):
 
 
 def is_npm(entry):
+    if "node_modules/" in entry.path:
+        return False
+    if "bower_components/" in entry.path:
+        return False
     filename = basename(entry.path)
     return (
         filename == "package.json"
