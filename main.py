@@ -4,7 +4,7 @@ from os.path import dirname, join
 from dotenv import load_dotenv
 
 from spruce.github_auth import github_login
-from spruce.outdated import main as outdated
+from spruce.outdated import main as outdated, main_all as outdated_all
 from spruce.repositories import check_repositories
 
 dotenv_path = join(dirname(__file__), ".env")
@@ -24,6 +24,8 @@ if __name__ == "__main__":
             check()
         if args[0] == "outdated":
             outdated(args[1:])
+        if args[0] == "outdated-all":
+            outdated_all()
 
     else:
         print("Usage: main.py check")

@@ -1,0 +1,21 @@
+node: 46
+  NO: 3
+  ALMOST: 2
+  YES: 41
+
+python: 34
+  NO: 1
+  ALMOST: 5
+  YES: 28
+
+
+combined: 80
+  NO: 4
+  ALMOST: 7
+  YES: 69
+
+---
+
+django+wagtail: 33
+  NO: 15
+  YES: 18
