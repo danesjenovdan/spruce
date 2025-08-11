@@ -1,0 +1,25 @@
+name: Check formatting
+on:
+  push:
+    branches:
+      - "main"
+jobs:
+  check_python_formatting:
+    name: Check Python formatting
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Check types with mypy
+        run: |
+          mypy --strict .

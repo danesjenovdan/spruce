@@ -1,0 +1,1137 @@
+[
+  {
+    "name": "danesjenovdan/zip",
+    "created_at": "2025-06-18T11:57:56Z",
+    "pushed_at": "2025-08-01T11:29:15Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/kvak",
+    "created_at": "2025-05-13T10:05:42Z",
+    "pushed_at": "2025-06-02T12:06:14Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/wagtailtinymce",
+    "created_at": "2025-03-24T13:15:07Z",
+    "pushed_at": "2025-03-24T13:36:12Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/zagreb-parser",
+    "created_at": "2025-02-04T14:47:58Z",
+    "pushed_at": "2025-06-17T11:40:44Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/razkrinkaj-ai",
+    "created_at": "2024-10-21T11:23:46Z",
+    "pushed_at": "2025-07-28T12:25:01Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/classla",
+    "created_at": "2024-10-09T10:12:54Z",
+    "pushed_at": "2024-10-09T10:32:40Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/ai-registry",
+    "created_at": "2024-10-02T16:36:14Z",
+    "pushed_at": "2025-07-31T10:16:48Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/cnvos-acf",
+    "created_at": "2024-09-23T11:37:41Z",
+    "pushed_at": "2024-10-11T12:20:01Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/parladata_base_api",
+    "created_at": "2024-08-07T15:16:20Z",
+    "pushed_at": "2025-06-13T07:12:23Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/izvoli.eu",
+    "created_at": "2024-04-16T15:33:16Z",
+    "pushed_at": "2024-10-17T14:14:51Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/brigade2",
+    "created_at": "2024-04-10T15:31:48Z",
+    "pushed_at": "2024-04-22T12:10:42Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/spruce",
+    "created_at": "2024-02-22T14:00:13Z",
+    "pushed_at": "2025-08-11T12:20:15Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/odprti-racuni-obcine-lite",
+    "created_at": "2024-01-25T09:52:34Z",
+    "pushed_at": "2024-12-19T12:26:56Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/krtk",
+    "created_at": "2023-12-26T21:03:41Z",
+    "pushed_at": "2025-04-14T12:15:28Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/snakes-and-ladders",
+    "created_at": "2023-11-24T09:12:51Z",
+    "pushed_at": "2023-12-12T09:36:30Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/djnCAPTCHA",
+    "created_at": "2023-10-25T14:04:29Z",
+    "pushed_at": "2023-11-24T22:15:12Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/calcom-docker",
+    "created_at": "2023-10-11T17:20:27Z",
+    "pushed_at": "2023-10-11T04:04:25Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/klub-ada",
+    "created_at": "2023-09-25T16:32:50Z",
+    "pushed_at": "2025-08-11T13:55:14Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/disco",
+    "created_at": "2023-06-09T09:17:37Z",
+    "pushed_at": "2024-06-10T10:45:06Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/ppp",
+    "created_at": "2023-04-12T10:55:30Z",
+    "pushed_at": "2025-07-09T13:20:54Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/media-literacy",
+    "created_at": "2023-04-06T15:11:58Z",
+    "pushed_at": "2023-11-27T14:07:03Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/center-rog",
+    "created_at": "2023-02-08T21:08:23Z",
+    "pushed_at": "2025-07-29T08:09:40Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/odprti-racuni-obcine",
+    "created_at": "2023-01-13T13:26:30Z",
+    "pushed_at": "2025-08-04T10:07:42Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/melita",
+    "created_at": "2023-01-03T11:16:06Z",
+    "pushed_at": "2023-10-03T12:48:59Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/advent",
+    "created_at": "2022-12-04T11:22:20Z",
+    "pushed_at": "2022-12-17T22:12:44Z",
+    "default_branch": "2022",
+    "check_branches": [
+      "2022"
+    ]
+  },
+  {
+    "name": "danesjenovdan/podpri-novicnik",
+    "created_at": "2022-12-02T07:07:21Z",
+    "pushed_at": "2022-12-02T13:38:29Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/presupuesto",
+    "created_at": "2022-11-09T16:03:30Z",
+    "pushed_at": "2022-10-09T22:21:27Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/lesson-plans",
+    "created_at": "2022-08-29T09:03:20Z",
+    "pushed_at": "2022-12-23T12:05:40Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/djnd-alavetelitheme",
+    "created_at": "2022-08-10T15:57:00Z",
+    "pushed_at": "2023-09-27T08:33:55Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/alaveteli",
+    "created_at": "2022-08-08T12:25:33Z",
+    "pushed_at": "2023-09-27T08:45:44Z",
+    "default_branch": "develop",
+    "check_branches": [
+      "develop"
+    ]
+  },
+  {
+    "name": "danesjenovdan/newsgradient-analize",
+    "created_at": "2022-07-11T13:45:55Z",
+    "pushed_at": "2024-10-18T13:16:37Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/brezgreha.si",
+    "created_at": "2022-07-07T10:41:00Z",
+    "pushed_at": "2024-07-19T10:15:32Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/odprti-racuni",
+    "created_at": "2022-07-01T09:26:08Z",
+    "pushed_at": "2025-07-21T06:59:26Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/futr-za-jutr",
+    "created_at": "2022-06-30T09:23:53Z",
+    "pushed_at": "2023-04-28T09:44:39Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/otvaraj",
+    "created_at": "2022-06-23T09:25:35Z",
+    "pushed_at": "2022-12-02T17:32:23Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/rule-of-law-reporting",
+    "created_at": "2022-04-14T14:47:52Z",
+    "pushed_at": "2024-07-09T13:11:46Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/parla-parser",
+    "created_at": "2022-04-05T10:05:04Z",
+    "pushed_at": "2025-07-18T08:16:30Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/pictshare",
+    "created_at": "2022-03-23T13:05:05Z",
+    "pushed_at": "2022-03-08T21:24:03Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/volitvomat",
+    "created_at": "2022-02-24T11:28:21Z",
+    "pushed_at": "2024-04-28T21:16:52Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/zamerim",
+    "created_at": "2022-02-22T22:37:17Z",
+    "pushed_at": "2025-08-05T05:18:18Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/vejice",
+    "created_at": "2022-02-20T19:27:45Z",
+    "pushed_at": "2022-07-07T11:01:32Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/ajdovscina-parser",
+    "created_at": "2022-01-13T10:16:47Z",
+    "pushed_at": "2024-12-17T13:05:47Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/glas-ljudstva.si",
+    "created_at": "2021-11-11T16:14:42Z",
+    "pushed_at": "2025-06-16T09:47:48Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/novdan",
+    "created_at": "2021-10-19T09:45:09Z",
+    "pushed_at": "2025-04-14T11:17:32Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/sramota",
+    "created_at": "2021-10-09T09:35:43Z",
+    "pushed_at": "2021-10-09T09:37:46Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/odmevi-prve-epidemije",
+    "created_at": "2021-10-09T09:28:05Z",
+    "pushed_at": "2021-10-09T09:28:45Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/sl-parser",
+    "created_at": "2021-09-24T10:49:55Z",
+    "pushed_at": "2025-07-28T13:59:30Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/stanovanjske-zadruge-zemljevid",
+    "created_at": "2021-09-16T14:55:51Z",
+    "pushed_at": "2024-04-28T21:11:24Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/settlement-newday",
+    "created_at": "2021-09-14T16:34:15Z",
+    "pushed_at": "2021-10-09T09:39:40Z",
+    "default_branch": "newday",
+    "check_branches": [
+      "newday"
+    ]
+  },
+  {
+    "name": "danesjenovdan/lestvica-transparentnosti",
+    "created_at": "2021-08-18T09:12:41Z",
+    "pushed_at": "2025-02-04T06:11:55Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/najemniski-sos",
+    "created_at": "2021-08-03T08:13:36Z",
+    "pushed_at": "2025-08-08T09:46:37Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/ua-parser",
+    "created_at": "2021-07-20T13:42:51Z",
+    "pushed_at": "2025-02-07T14:00:15Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/parlamint",
+    "created_at": "2021-06-27T11:46:00Z",
+    "pushed_at": "2021-06-28T11:42:45Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/newsgradient",
+    "created_at": "2021-06-22T16:13:34Z",
+    "pushed_at": "2024-10-18T11:52:35Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/plausible",
+    "created_at": "2021-06-16T09:16:09Z",
+    "pushed_at": "2021-05-15T08:22:20Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/obljuba-dela-dolg",
+    "created_at": "2021-06-03T15:25:29Z",
+    "pushed_at": "2024-10-25T14:45:21Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/mol-parser",
+    "created_at": "2021-05-19T15:15:25Z",
+    "pushed_at": "2025-05-13T11:55:07Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/stop-your-government",
+    "created_at": "2021-05-11T10:57:54Z",
+    "pushed_at": "2023-11-21T14:46:52Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/hudapobuda",
+    "created_at": "2021-05-07T08:36:06Z",
+    "pushed_at": "2024-02-13T10:28:24Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/ops",
+    "created_at": "2021-04-29T14:41:59Z",
+    "pushed_at": "2025-08-04T05:36:50Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/meta-image-generator",
+    "created_at": "2021-04-23T18:56:05Z",
+    "pushed_at": "2025-03-04T17:32:35Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/djnd-infra",
+    "created_at": "2021-03-15T11:40:34Z",
+    "pushed_at": "2025-07-31T06:22:57Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/installer",
+    "created_at": "2021-03-10T08:58:45Z",
+    "pushed_at": "2021-03-10T11:18:39Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/motionsearch",
+    "created_at": "2021-02-17T20:48:44Z",
+    "pushed_at": "2023-03-16T08:50:33Z",
+    "default_branch": "develop",
+    "check_branches": [
+      "develop"
+    ]
+  },
+  {
+    "name": "danesjenovdan/outline",
+    "created_at": "2021-02-10T12:09:55Z",
+    "pushed_at": "2022-05-04T10:01:12Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/izboljsajmo-maribor",
+    "created_at": "2021-02-02T10:25:55Z",
+    "pushed_at": "2025-08-04T05:41:09Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/debateland",
+    "created_at": "2021-01-20T09:36:38Z",
+    "pushed_at": "2024-01-22T10:44:30Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/pravnamreza",
+    "created_at": "2020-12-27T23:15:20Z",
+    "pushed_at": "2025-07-17T09:43:55Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/creativecommons.si",
+    "created_at": "2020-12-22T10:29:41Z",
+    "pushed_at": "2024-06-07T13:13:38Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/abakus",
+    "created_at": "2020-12-18T14:43:34Z",
+    "pushed_at": "2024-10-04T06:54:12Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/brigade",
+    "created_at": "2020-12-07T08:12:09Z",
+    "pushed_at": "2024-11-13T08:27:20Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/twito",
+    "created_at": "2020-10-31T16:27:39Z",
+    "pushed_at": "2024-10-17T14:24:31Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/parlamint-parser",
+    "created_at": "2020-10-26T15:59:45Z",
+    "pushed_at": "2021-06-27T18:04:57Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/katalizatorji",
+    "created_at": "2020-10-09T07:52:59Z",
+    "pushed_at": "2020-11-24T16:10:32Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/sideflip",
+    "created_at": "2020-10-07T20:00:52Z",
+    "pushed_at": "2020-10-15T10:59:20Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/kbpjs",
+    "created_at": "2020-09-23T11:32:14Z",
+    "pushed_at": "2024-10-04T07:40:03Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/boter",
+    "created_at": "2020-07-11T14:03:12Z",
+    "pushed_at": "2020-08-28T15:30:48Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/eposvetovanja-campaign",
+    "created_at": "2020-06-09T21:31:22Z",
+    "pushed_at": "2023-01-07T18:59:02Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/parlameter-bih-empty-states-campaign",
+    "created_at": "2020-06-08T10:16:57Z",
+    "pushed_at": "2023-01-07T18:57:36Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/eposvetovanja-parser",
+    "created_at": "2020-06-02T15:47:28Z",
+    "pushed_at": "2022-11-04T19:41:34Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/amzs-prijavnice",
+    "created_at": "2020-05-10T22:12:32Z",
+    "pushed_at": "2020-05-20T14:48:49Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/reference_implementation",
+    "created_at": "2020-04-28T07:36:10Z",
+    "pushed_at": "2020-04-28T07:46:56Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/twitterati",
+    "created_at": "2020-04-25T15:40:20Z",
+    "pushed_at": "2020-05-03T16:28:57Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/twint-docker",
+    "created_at": "2020-04-11T11:07:46Z",
+    "pushed_at": "2020-04-11T11:27:28Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/neo4j-browser",
+    "created_at": "2020-01-28T10:03:14Z",
+    "pushed_at": "2020-01-28T14:09:00Z",
+    "default_branch": "editor",
+    "check_branches": [
+      "editor"
+    ]
+  },
+  {
+    "name": "danesjenovdan/stanovanjska-kriza",
+    "created_at": "2019-11-11T19:26:39Z",
+    "pushed_at": "2024-10-11T07:58:14Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/kjer.si",
+    "created_at": "2019-11-01T10:27:21Z",
+    "pushed_at": "2023-01-08T00:06:33Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/sms-sender",
+    "created_at": "2019-10-22T12:43:29Z",
+    "pushed_at": "2022-04-11T18:29:12Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/newsgradient-pwa",
+    "created_at": "2019-08-14T15:57:15Z",
+    "pushed_at": "2023-01-04T07:16:07Z",
+    "default_branch": "v3",
+    "check_branches": [
+      "v3"
+    ]
+  },
+  {
+    "name": "danesjenovdan/newsgradient-api",
+    "created_at": "2019-08-14T12:37:11Z",
+    "pushed_at": "2020-07-29T14:55:36Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/dobrodelen",
+    "created_at": "2019-07-04T12:16:53Z",
+    "pushed_at": "2025-07-02T10:27:39Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "dev"
+    ]
+  },
+  {
+    "name": "danesjenovdan/gp-lottery",
+    "created_at": "2019-07-03T14:55:35Z",
+    "pushed_at": "2023-01-04T21:54:45Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/djndonacije",
+    "created_at": "2019-05-28T16:55:43Z",
+    "pushed_at": "2025-03-24T11:05:59Z",
+    "default_branch": "main",
+    "check_branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "danesjenovdan/djnapi",
+    "created_at": "2019-05-20T13:52:41Z",
+    "pushed_at": "2022-04-22T21:17:37Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/parlameter.org",
+    "created_at": "2019-02-21T17:34:46Z",
+    "pushed_at": "2025-05-19T11:54:45Z",
+    "default_branch": "parlameter.org",
+    "check_branches": [
+      "parlameter.org"
+    ]
+  },
+  {
+    "name": "danesjenovdan/other",
+    "created_at": "2018-12-04T13:21:08Z",
+    "pushed_at": "2024-08-20T09:39:29Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/shortener",
+    "created_at": "2018-12-04T12:32:18Z",
+    "pushed_at": "2023-12-21T18:41:43Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/commentality-client",
+    "created_at": "2018-11-26T22:43:36Z",
+    "pushed_at": "2022-12-09T17:31:45Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/stanovanja",
+    "created_at": "2018-11-01T12:14:12Z",
+    "pushed_at": "2024-11-20T18:56:54Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/sponzorji-sovrastva",
+    "created_at": "2018-10-28T21:39:49Z",
+    "pushed_at": "2024-08-13T15:24:35Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/participatorni-proracun",
+    "created_at": "2018-10-24T14:44:34Z",
+    "pushed_at": "2025-05-09T09:44:11Z",
+    "default_branch": "preverjamo-2025",
+    "check_branches": [
+      "preverjamo-2025"
+    ]
+  },
+  {
+    "name": "danesjenovdan/meetandcode",
+    "created_at": "2018-10-02T15:04:25Z",
+    "pushed_at": "2024-11-20T16:34:20Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/commentality-server",
+    "created_at": "2018-09-10T22:34:45Z",
+    "pushed_at": "2022-05-25T00:33:19Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/sdk",
+    "created_at": "2018-07-30T03:53:19Z",
+    "pushed_at": "2024-10-04T11:22:50Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/turf",
+    "created_at": "2018-07-14T14:32:54Z",
+    "pushed_at": "2022-12-08T02:16:32Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/consul",
+    "created_at": "2018-06-08T11:31:06Z",
+    "pushed_at": "2025-08-07T11:46:27Z",
+    "default_branch": "djnd-consul",
+    "check_branches": [
+      "djnd-consul"
+    ]
+  },
+  {
+    "name": "danesjenovdan/hr-parser",
+    "created_at": "2018-05-29T14:51:04Z",
+    "pushed_at": "2022-12-08T02:07:53Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/politiscales",
+    "created_at": "2018-05-14T14:03:49Z",
+    "pushed_at": "2024-08-13T18:25:54Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/sign-up-for-facebook",
+    "created_at": "2018-03-29T10:24:01Z",
+    "pushed_at": "2024-11-20T11:00:11Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/varuhinja",
+    "created_at": "2018-02-13T14:24:53Z",
+    "pushed_at": "2024-11-20T17:02:02Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/kura",
+    "created_at": "2017-12-20T17:40:28Z",
+    "pushed_at": "2024-09-18T17:13:05Z",
+    "default_branch": "si",
+    "check_branches": [
+      "si"
+    ]
+  },
+  {
+    "name": "danesjenovdan/parlameter",
+    "created_at": "2017-08-31T09:15:21Z",
+    "pushed_at": "2025-08-07T16:09:06Z",
+    "default_branch": "dev",
+    "check_branches": [
+      "slovenija",
+      "ljubljana"
+    ]
+  },
+  {
+    "name": "danesjenovdan/parlacontrol",
+    "created_at": "2017-08-30T09:32:01Z",
+    "pushed_at": "2022-12-08T00:36:31Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/razglednica-z-visa",
+    "created_at": "2017-08-09T21:56:48Z",
+    "pushed_at": "2024-11-20T12:45:06Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/djapi",
+    "created_at": "2017-07-26T13:37:50Z",
+    "pushed_at": "2022-11-22T01:52:49Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/parlaparser",
+    "created_at": "2017-06-14T18:57:21Z",
+    "pushed_at": "2021-01-22T17:38:14Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/breakfree",
+    "created_at": "2017-03-06T22:49:01Z",
+    "pushed_at": "2024-11-20T12:58:36Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/studentski-uspehi",
+    "created_at": "2016-06-27T19:17:53Z",
+    "pushed_at": "2024-11-20T16:50:37Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/prostovid",
+    "created_at": "2016-04-25T19:24:00Z",
+    "pushed_at": "2024-11-20T13:33:26Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/alternacija",
+    "created_at": "2016-03-27T12:30:19Z",
+    "pushed_at": "2024-11-20T18:12:38Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/zarbrezutvar",
+    "created_at": "2016-01-05T14:10:08Z",
+    "pushed_at": "2024-08-13T20:31:54Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/omnia",
+    "created_at": "2015-12-16T10:48:43Z",
+    "pushed_at": "2024-11-21T10:47:53Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/neenakost",
+    "created_at": "2015-12-08T08:22:45Z",
+    "pushed_at": "2024-09-30T21:12:29Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/vandalizem",
+    "created_at": "2015-10-25T20:19:39Z",
+    "pushed_at": "2024-11-20T13:18:30Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/cefizelj",
+    "created_at": "2014-08-31T19:18:48Z",
+    "pushed_at": "2025-08-06T13:08:39Z",
+    "default_branch": "master",
+    "check_branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "danesjenovdan/danesjenovdan.si",
+    "created_at": "2014-08-31T19:04:48Z",
+    "pushed_at": "2025-08-04T10:32:43Z",
+    "default_branch": "v3-dev",
+    "check_branches": [
+      "v3-dev"
+    ]
+  }
+]
