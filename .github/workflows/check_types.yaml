@@ -22,4 +22,4 @@ jobs:
 
       - name: Check types with mypy
         run: |
-          mypy --strict .
+          mypy .

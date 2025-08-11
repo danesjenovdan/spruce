@@ -3,7 +3,7 @@
 
 # import nodesemver
 # import requests
-# from github3.repos.repo import Repository
+# from github3.repos import Repository
 
 # from .utils import Outdated, get_decoded_file_contents
 

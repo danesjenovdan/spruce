@@ -2,7 +2,7 @@
 # from os.path import basename
 
 # import requests
-# from github3.repos.repo import Repository
+# from github3.repos import Repository
 # from packaging.version import Version
 # from packaging.version import parse as parse_version
 

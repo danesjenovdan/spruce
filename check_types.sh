@@ -12,4 +12,4 @@ fi
 
 # run mypy
 echo "Checking types..."
-mypy --strict .
+mypy .

@@ -1,14 +1,14 @@
 import os
 
-import github3
+from github3 import GitHub
 
 
-def github_login() -> github3.GitHub:
+def github_login() -> GitHub:
     token = os.getenv("GH_TOKEN")
     if not token:
         raise ValueError("GH_TOKEN environment variable is not set")
 
-    github_connection = github3.login(token=token)
+    github_connection = GitHub(token=token)
     if not github_connection:
         raise ValueError("GH_TOKEN is invalid")
 
