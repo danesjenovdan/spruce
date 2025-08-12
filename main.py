@@ -4,7 +4,7 @@ import click
 from dotenv import load_dotenv
 
 from spruce.github_auth import github_login
-from spruce.repositories import check_repos, list_repos
+from spruce.repositories import check_repos_versions, list_repos
 
 dotenv_path = join(dirname(__file__), ".env")
 load_dotenv(dotenv_path)
@@ -17,23 +17,23 @@ def cli() -> None:
 
 @click.command()
 @click.option(
-    "--force",
+    "--force-update",
     is_flag=True,
     help="Force re-fetching repositories from GitHub.",
 )
-def list_repositories(force: bool) -> None:
+def list_repositories(force_update: bool) -> None:
     g = github_login()
-    list_repos(g, "danesjenovdan", pushed_after="2020-01-01", force_update=force)
+    list_repos(g, "danesjenovdan", pushed_after="2020-01-01", force_update=force_update)
 
 
 @click.command()
-def check_repositories() -> None:
+def check_versions() -> None:
     g = github_login()
-    check_repos(g)
+    check_repos_versions(g)
 
 
 cli.add_command(list_repositories)
-cli.add_command(check_repositories)
+cli.add_command(check_versions)
 
 
 if __name__ == "__main__":

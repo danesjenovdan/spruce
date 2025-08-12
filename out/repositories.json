@@ -113,7 +113,7 @@
     "owner": "danesjenovdan",
     "name": "spruce",
     "created_at": "2024-02-22T14:00:13Z",
-    "pushed_at": "2025-08-11T14:27:32Z",
+    "pushed_at": "2025-08-11T17:20:48Z",
     "default_branch": "main",
     "check_branches": [
       "main"
@@ -1053,7 +1053,7 @@
     "owner": "danesjenovdan",
     "name": "consul",
     "created_at": "2018-06-08T11:31:06Z",
-    "pushed_at": "2025-08-07T11:46:27Z",
+    "pushed_at": "2025-08-12T08:32:34Z",
     "default_branch": "djnd-consul",
     "check_branches": [
       "djnd-consul"
@@ -1116,7 +1116,19 @@
     "pushed_at": "2025-08-07T16:09:06Z",
     "default_branch": "dev",
     "check_branches": [
-      "dev"
+      "dev",
+      "ajdovscina",
+      "bosna",
+      "hrastnik",
+      "hrvaska",
+      "lendava",
+      "ljubljana",
+      "medvode",
+      "slovenija",
+      "slovenija-staging",
+      "trbovlje",
+      "ukrajina",
+      "zagreb"
     ]
   },
   {

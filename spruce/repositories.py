@@ -11,7 +11,7 @@ from .serializers import load_json, save_json
 from .structs import Dependency, RepoBranchDeps, RepoToCheck
 
 
-def update_repos(
+def _update_repos_with_cache(
     repos: list[RepoToCheck],
     cached_repos: list[RepoToCheck],
 ) -> list[RepoToCheck]:
@@ -33,6 +33,11 @@ def list_repos(
     # try loading from file if it exists and force_update is false
     cached_repos = load_json("out/repositories.json", type=list[RepoToCheck])
     if not force_update and cached_repos:
+        cprint(
+            f"INFO: Using {len(cached_repos)} cached repositories! "
+            "See `out/repositories.json` for details.",
+            "cyan",
+        )
         return cached_repos
 
     # fetch from github api if not in cache
@@ -61,9 +66,15 @@ def list_repos(
     repos.sort(key=lambda r: r.created_at, reverse=True)
 
     if cached_repos:
-        repos = update_repos(repos, cached_repos)
+        repos = _update_repos_with_cache(repos, cached_repos)
 
     save_json(repos, "out/repositories.json")
+
+    cprint(
+        f"INFO: Updated list of {len(repos)} repositories! "
+        "See `out/repositories.json` for details.",
+        "cyan",
+    )
 
     return repos
 
@@ -73,7 +84,7 @@ def _find_named_deps_string(deps: list[Dependency], name: str) -> str:
     return ";".join([dep.value for dep in deps if name in dep.value])
 
 
-def check_repos(g: GitHub) -> None:
+def check_repos_versions(g: GitHub) -> None:
     repos = load_json("out/repositories.json", type=list[RepoToCheck])
     if not repos:
         cprint(
